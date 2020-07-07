@@ -88,7 +88,7 @@ CREATE TABLE `kullanici` (
 --
 
 INSERT INTO `kullanici` (`kul_id`, `kul_isim`, `kul_mail`, `kul_sifre`) VALUES
-(1, 'admin', 'vjraylex@gmail.com', '15341534');
+(1, 'admin', 'admin@admin.com', '123456');
 
 -- --------------------------------------------------------
 
